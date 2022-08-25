@@ -1,0 +1,29 @@
+hi i am  tomy3219 
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Links you love</title>
+    </head>
+    <body>
+       
+        <h1>bienvenido a curiosidades</h1>
+        <h2>me encantan las peliculas y los libros</h2>
+        <h3>a ti que te gusta estas son mis selecciones para ti </h3>
+        <ul>
+            <li>anime<li>infantiles </li>
+            <li>comedia</li>
+            <li>LEGO</li>
+            <li>y a quien no le gusta la accion</li>
+            <a></a><h1>a mi me gusta comprar anime en Anime Inc.</h1>
+            <h2>infantiles y el resto de los generos me gusta verlos en netflix</h2>
+        </ul>
+
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/animals/birds_rainbow-lorakeets.png">
+        <p id="Anime-Inc.">en anime inc. me sale mas barato hasta que en mercado libre usado me parace que annime inc. al vender productos mas baratos y nuevos la verdad yo compraria hay es de la mejor aqui esta el telefono 300-653-94-29</p>
+            <p>tambien me gusta comprar pokemon en anime inc. porque me salen muy baratos los peluches.
+            ademas las esferas del dragon en anime inc son muy buenas y baratas</p><p>y pues netflix es de lo mejor mas yo les recomiendo HBO MAX por que hay estan las peliculas de harry poter y estan buenisimas se los recomiendo ¡nos vemos en una proxima web sencilla pero con informacion para niños y jovenes
+          </p>  
+            </body>
+       
+</html>
